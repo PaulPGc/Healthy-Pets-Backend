@@ -17,7 +17,7 @@
   <description>Backend de HealthyPets</description>
 
   <properties>
-    <java.version>24</java.version>
+    <java.version>20</java.version>
     <lombok.version>1.18.34</lombok.version>
     <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
   </properties>
